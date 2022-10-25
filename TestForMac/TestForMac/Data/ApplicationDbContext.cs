@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
+// know what is category, because we define category in models
 using TestForMac.Models;
 
 namespace TestForMac.Data;

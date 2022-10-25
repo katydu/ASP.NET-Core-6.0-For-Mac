@@ -1,13 +1,18 @@
 ﻿<Properties StartupConfiguration="{FE4C0790-BE8C-4C2A-A3D8-6615F8A2BA6B}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestForMac PreferredExecutionTarget="/Applications/Brave Browser.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TestForMac/Controllers/CategoryController.cs">
     <Files>
-      <File FileName="TestForMac/Data/ApplicationDbContext.cs" Line="9" Column="31" />
-      <File FileName="TestForMac/appsettings.json" Line="14" Column="1" />
-      <File FileName="TestForMac/Program.cs" Line="2" Column="37" />
-      <File FileName="TestForMac/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="TestForMac/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="TestForMac/Controllers/CategoryController.cs" Line="21" Column="1" />
+      <File FileName="TestForMac/Data/ApplicationDbContext.cs" />
+      <File FileName="TestForMac/Program.cs" Line="16" Column="1" />
+      <File FileName="TestForMac/Controllers/CategoryController.cs" Line="28" Column="10" />
+      <File FileName="TestForMac/Views/Category/Index.cshtml" Line="18" Column="14" />
+      <File FileName="TestForMac/Models/Category.cs" Line="13" Column="16" />
+      <File FileName="TestForMac/appsettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,25 +22,23 @@
               <Node name="Dependencies" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True">
                   <Node name="_Layout.cshtml" expanded="True" />
                 </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TestForMac PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
